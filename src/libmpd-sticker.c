@@ -4,7 +4,7 @@
 #include <glib.h>
 #include <string.h>
 #include <stdarg.h>
-#include "config.h"
+#include "../config.h"
 #include "debug_printf.h"
 #include "libmpd.h"
 #include "libmpd-internal.h"

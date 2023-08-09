@@ -23,7 +23,7 @@
 
 #include <string.h>
 #include <stdarg.h>
-#include "config.h"
+#include "../config.h"
 #include <glib.h>
 #include "debug_printf.h"
 

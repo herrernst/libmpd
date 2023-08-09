@@ -24,7 +24,7 @@
 #include <unistd.h>
 #include <time.h>
 #include <glib.h>
-#include "config.h"
+#include "../config.h"
 #include "debug_printf.h"
 
 int debug_level = 0;
